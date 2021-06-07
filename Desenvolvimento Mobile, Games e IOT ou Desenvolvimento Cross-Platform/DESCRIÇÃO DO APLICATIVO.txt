@@ -1,1 +1,0 @@
-O Aplicativo se encontra na sua primeira versão, por enquanto foi implementado apenas layout e a sua navegação.
