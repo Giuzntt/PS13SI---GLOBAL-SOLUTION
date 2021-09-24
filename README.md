@@ -2,6 +2,12 @@
 TEMA DO PROJETO:
 BootCamp PS13SI: apoio para uma promessa de Unicórnio
 
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LOGIN.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/HOME.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LISTA%20DE%20CADASTROS.jpg)'
+
+
+
 DESCRIÇÃO DO PROJETO:
 Enquanto a população mundial e muitas organizações sofriam com as agruras
 decorrentes do estado Pandemia imposto pela doença do coronavírus COVID
