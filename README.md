@@ -1,15 +1,5 @@
 # PS13SI-Bootcamp
 ## BootCamp PS13SI: Apoio para uma promessa de Unicórnio
-
-![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LOGIN.jpg)'
-![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/CADASTRO.jpg)'
-![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/HOME.jpg)'
-![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LISTA%20DE%20CADASTROS.jpg)'
-![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/BOOTCAMPS.jpg)'
-
-
-
-
 ### DESCRIÇÃO DO PROJETO:
 Enquanto a população mundial e muitas organizações sofriam com as agruras
 decorrentes do estado Pandemia imposto pela doença do coronavírus COVID
@@ -48,3 +38,14 @@ como aportar sua experiência em apoio ao crescimento da startup. Neste caso,
 a PS13SI recebeu um aporte significativo para investir em infraestrutura,
 contratar novos profissionais e potencializar ainda mais seu crescimento e
 lucro.
+
+# LAYOUT GLOBAL SOLUTION
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LOGIN.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/CADASTRO.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/HOME.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LISTA%20DE%20CADASTROS.jpg)'
+![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/BOOTCAMPS.jpg)'
+
+
+
+
