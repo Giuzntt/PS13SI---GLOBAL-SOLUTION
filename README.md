@@ -1,5 +1,5 @@
 # PS13SI-Bootcamp
-## BootCamp PS13SI: apoio para uma promessa de Unicórnio
+## BootCamp PS13SI: Apoio para uma promessa de Unicórnio
 
 ![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/LOGIN.jpg)'
 ![wireframe.forevera1](https://github.com/Giuzntt/PS13SI---GLOBAL-SOLUTION/blob/main/GIT/CADASTRO.jpg)'
@@ -22,12 +22,12 @@ PS13SI. Desde o lançamento da PS13SI o grupo destemido estava
 aproveitando os equipamentos e o espaço de uma pequena empresa, cedido
 por um familiar de um dos integrantes e que, infelizmente, teve que fechar as
 portas de sua empresa. No espaço cedido a PS13SI opera fazendo uso da
-tecnologia que era utilizada pela pequena empresa:
+tecnologia que era utilizada pela pequena empresa: <br />
 ● um roteador conectado à Internet e que distribui sinal Wifi para
-dispositivos IoT;
+dispositivos IoT; <br />
 ● um equipamento Servidor onde é hospedada a homepage da
 PS13SI e onde são executados os sistemas locais e um banco de
-dados.
+dados. <br />
 Com um modelo de negócio extremamente inovador e que vem ao encontro do
 desejo das pessoas que sonhavam com tempos melhores, a PS13SI
 demonstrou potencial para se tornar um unicórnio em pouco tempo de
@@ -39,7 +39,7 @@ Desenvolvimento Mobile, DevOps, DevSecOps, Machine Learning, IA e outras.
 As atividades da PS13SI envolvem a criação do plano de treinamento,
 elaboração do conteúdo, contratação de professores, configuração do espaço
 físico, triagem de candidatos, validação de conhecimento, coach de carreira e
-recrutamento / direcionamento para o mercado de trabalho.
+recrutamento / direcionamento para o mercado de trabalho. <br />
 Como não poderia ser diferente em tal cenário, as operações da PS13SI
 despertou interesse em um Investidor Anjo, um empresário que já trilhou uma
 carreira de sucesso e que acumulou recursos suficientes para alocar uma parte
