@@ -1,0 +1,29 @@
+*, *::after, *::before{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+
+body, a, li{
+ text-decoration: none;
+ list-style: none;  
+}
+.wrapper{
+  width: 120rem;
+  max-width: 90%;
+  display: block; 
+}
+#logo{
+  width: 64px;
+  max-width: 100%;
+}
+.navbar{
+  background-color: #F8F9FA;
+}
+.navbar-nav{
+  color: aliceblue;
+  font-size: 1.2rem;
+  text-transform: uppercase;
+  font-family: 'Oswald', sans-serif;
+}
+
